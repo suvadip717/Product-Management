@@ -1,4 +1,4 @@
-![Screenshot from 2024-09-24 11-21-16](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-21-16)
+![Screenshot from 2024-09-24 11-21-16](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-21-16.png)
 ![Screenshot from 2024-09-24 11-21-32](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-21-32.png)
 ![Screenshot from 2024-09-24 11-22-02](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-22-02.png)
 ![Screenshot from 2024-09-24 11-22-52](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-22-52.png)
