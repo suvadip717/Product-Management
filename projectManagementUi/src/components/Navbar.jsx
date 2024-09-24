@@ -32,11 +32,11 @@ const Navbar = () => {
                   Add Product
                 </Link>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <Link to="/edit" className="nav-link" href="#">
                   Edit Product
                 </Link>
-              </li>
+              </li> */}
              
              
             </ul>
