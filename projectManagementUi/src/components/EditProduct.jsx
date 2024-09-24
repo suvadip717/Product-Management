@@ -49,7 +49,7 @@ const EditProduct = () => {
               <div className="card-body">
                 <form onSubmit={(e) => ProductUpdate(e)}>
                   <div className="mb-3">
-                    <label>Enter Product Name</label>
+                    <label>Edit Product Name</label>
                     <input
                       type="text"
                       name="productName"
@@ -59,7 +59,7 @@ const EditProduct = () => {
                     />
                   </div>
                   <div className="mb-3">
-                    <label>Enter Product Description</label>
+                    <label>Edit Product Description</label>
                     <input
                       type="text"
                       name="description"
@@ -69,7 +69,7 @@ const EditProduct = () => {
                     />
                   </div>
                   <div className="mb-3">
-                    <label>Enter Product Price</label>
+                    <label>Edit Product Price</label>
                     <input
                       type="text"
                       name="price"
@@ -79,7 +79,7 @@ const EditProduct = () => {
                     />
                   </div>
                   <div className="mb-3">
-                    <label>Enter Product Status</label>
+                    <label>Edit Product Status</label>
                     <input
                       type="text"
                       name="status"
